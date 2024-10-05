@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CoinTable/static/css/main.83d18cee.css",
+    "main.js": "/CoinTable/static/js/main.afff9086.js",
+    "static/js/453.5ae54ce6.chunk.js": "/CoinTable/static/js/453.5ae54ce6.chunk.js",
+    "index.html": "/CoinTable/index.html",
+    "main.83d18cee.css.map": "/CoinTable/static/css/main.83d18cee.css.map",
+    "main.afff9086.js.map": "/CoinTable/static/js/main.afff9086.js.map",
+    "453.5ae54ce6.chunk.js.map": "/CoinTable/static/js/453.5ae54ce6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83d18cee.css",
+    "static/js/main.afff9086.js"
+  ]
+}
